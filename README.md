@@ -1,4 +1,5 @@
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fn8n.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fn8n?ref=badge_shield)
 
 # n8n - Secure Workflow Automation for Technical Teams
 
@@ -56,6 +57,9 @@ n8n is [fair-code](https://faircode.io) distributed under the [Sustainable Use L
 [Enterprise licenses](mailto:license@n8n.io) available for additional features and support.
 
 Additional information about the license model can be found in the [docs](https://docs.n8n.io/sustainable-use-license/).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fn8n.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fn8n?ref=badge_large)
 
 ## Contributing
 
